@@ -1,4 +1,4 @@
-<div align="center">
+++<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" align="right">
   
   <h1 align="left">Hi 👋, I'm Md. Emon Hossain</h1>
@@ -46,10 +46,7 @@
 ---
 
 ### 📊 Github Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammademon10&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammademon10&layout=compact&theme=tokyonight" alt="Top Langs" height="180" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammademon10&theme=tokyonight" alt="Streak" />
@@ -64,6 +61,3 @@
   <a href="https://leetcode.com/u/MD_Emon_Hossain/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mohammademon10/mohammademon10/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
