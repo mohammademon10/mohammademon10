@@ -2,8 +2,9 @@
 
 ### 📊 My GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammademon10&show_icons=true&theme=radical&count_private=true" alt="Emon's Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammademon10&layout=compact&theme=radical" alt="Top Languages" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammademon10&show_icons=true&theme=merko&count_private=true&hide_border=false" alt="Emon's Stats" height="175px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammademon10&layout=compact&theme=merko&hide_border=false" alt="Top Languages" height="175px" />
 </p>
 
 ### 📈 Activity Dynamics
@@ -13,5 +14,13 @@
 
 ### 🛠️ Current Contributions & Streaks
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammademon10&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammademon10&theme=merko&hide_border=false" alt="GitHub Streak" />
 </p>
+
+---
+
+### 🚀 About Me
+- 🎓 CSE Undergraduate @ Daffodil International University
+- 🎯 Aspiring Data Science & AI Engineer
+- 💻 Tech Stack: Python, C++, ML, Java
+- ⚡ Fun fact: Building projects & learning every day!
