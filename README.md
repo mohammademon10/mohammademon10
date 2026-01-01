@@ -9,3 +9,4 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammademon10&theme=tokyonight&area=true" width="100%" alt="GitHub Activity Graph" />
 </p>
+![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohammademon10&theme=react-dark&area=true&hide_border=true)
