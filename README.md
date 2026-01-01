@@ -1,19 +1,17 @@
-# Hi there, I'm Md. Emon Hossain👋
+# Hi there, I'm Md. Emon Hossain 👋
 
 ### 📊 My GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammademon10&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Emon's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammademon10&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammademon10&show_icons=true&theme=transparent&rank_icon=github" alt="Emon's Stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammademon10&layout=compact&theme=transparent" alt="Top Languages" height="170px" />
 </p>
 
 ### 📈 Activity Dynamics
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammademon10&theme=tokyonight&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammademon10&theme=github-compact&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
-
----
 
 ### 🛠️ Current Contributions & Streaks
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammademon10&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammademon10&theme=transparent" alt="GitHub Streak" />
 </p>
