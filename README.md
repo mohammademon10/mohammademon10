@@ -1,16 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md.%20Emon%20Hossain&fontSize=42&fontColor=fff&fontAlignY=36&desc=CSE%20%40%20DIU%20%7C%20AI%20%26%20Data%20Science%20%7C%20Problem%20Solver&descAlignY=55&descSize=15" width="100%"/>
+<h1> Hi, I'm Md. Emon Hossain</h1>
+<h3>🚀 CSE Undergraduate @ DIU &nbsp;|&nbsp; AI & Data Science Engineer &nbsp;|&nbsp; Problem Solver</h3>
 
-</div>
+<br/>
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=Building+AI+%26+Full-Stack+Projects+%F0%9F%9A%80;Mastering+DSA+with+C%2FC%2B%2B+%F0%9F%A7%A0;Aspiring+Data+Science+Engineer+%F0%9F%93%88;Open+Source+Contributor+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Building+AI+%26+Full-Stack+Projects+%F0%9F%9A%80;Mastering+DSA+with+C%2FC%2B%2B+%F0%9F%A7%A0;Aspiring+Data+Science+Engineer+%F0%9F%93%88;Open+Source+Contributor+%F0%9F%8C%8D)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohammademon10&label=Profile+Views&color=7c3aed&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/mohammademon10?style=for-the-badge&color=7c3aed&labelColor=1e1b4b)
@@ -78,7 +75,7 @@ contact    : emonemran677@gmail.com
 
 -----
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammademon10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
@@ -86,21 +83,7 @@ contact    : emonemran677@gmail.com
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammademon10&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammademon10&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="98%"/>
-</div>
-
------
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammademon10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammademon10&theme=tokyonight&hide_border=true"/>
 </div>
 
 -----
@@ -132,15 +115,5 @@ contact    : emonemran677@gmail.com
 -----
 
 <div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
-
-<div align="center">
-  <i>⭐ If you find my work useful, consider starring my repos! Let's build together 🚀</i>
+<i>⭐ If you find my work useful, consider starring my repos! Let's build together 🚀</i>
 </div>
