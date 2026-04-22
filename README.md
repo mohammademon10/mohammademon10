@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1> Hi, I'm Md. Emon Hossain</h1>
-<h3>🚀 CSE Undergraduate @ DIU &nbsp;|&nbsp; AI & Data Science Engineer &nbsp;|&nbsp; Problem Solver</h3>
+<h3>🚀 CSE Undergraduate @ DIU &nbsp;|&nbsp; AI/ML & Data Science Engineer &nbsp;|&nbsp; Problem Solver</h3>
 
 <br/>
 
