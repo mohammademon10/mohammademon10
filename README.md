@@ -9,7 +9,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohammademon10&label=Profile+Views&color=7c3aed&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/mohammademon10?style=for-the-badge&color=7c3aed&labelColor=1e1b4b)
 ![Focus](https://img.shields.io/badge/Focus-AI%20%26%20Data%20Science-7c3aed?style=for-the-badge&labelColor=1e1b4b)
 
