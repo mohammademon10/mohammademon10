@@ -1,135 +1,119 @@
 <div align="center">
 
-<img src="assets/profile-hero.svg" alt="Md. Emon Hossain — CSE undergraduate, software developer and AI/ML explorer" width="100%" />
+<h1> Hi, I'm Md. Emon Hossain</h1>
+<h3>🚀 CSE Undergraduate @ DIU &nbsp;|&nbsp; AI/ML & Data Science Engineer &nbsp;|&nbsp; Problem Solver</h3>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mdemon.me-3B82F6?style=flat-square&logo=googlechrome&logoColor=white)](https://mdemon.me/)
-[![GitHub](https://img.shields.io/badge/GitHub-mohammademon10-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/mohammademon10)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-emon-hossain-22774b1a6/)
-[![Email](https://img.shields.io/badge/Email-Contact-22D3EE?style=flat-square&logo=gmail&logoColor=white)](mailto:emonemran677@gmail.com)
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=22D3EE&center=true&vCenter=true&width=520&lines=Software+Developer;AI%2FML+Explorer;Full-Stack+Developer;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=Building+AI+%26+Full-Stack+Projects+%F0%9F%9A%80;Mastering+DSA+with+C%2FC%2B%2B+%F0%9F%A7%A0;Aspiring+Data+Science+Engineer+%F0%9F%93%88;Open+Source+Contributor+%F0%9F%8C%8D)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mohammademon10&label=Profile+Views&color=7c3aed&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/mohammademon10?style=for-the-badge&color=7c3aed&labelColor=1e1b4b)
+![Focus](https://img.shields.io/badge/Focus-AI%20%26%20Data%20Science-7c3aed?style=for-the-badge&labelColor=1e1b4b)
 
 </div>
 
----
+-----
 
-## About
+## 🧬 About Me
 
-I'm a Computer Science and Engineering undergraduate at **Daffodil International University (DIU)**, interested in building practical software and exploring how AI can help solve real-world problems.
+```yaml
+name       : Md. Emon Hossain
+location   : Dhaka, Bangladesh 🇧🇩
+university : Daffodil International University (DIU)
+degree     : B.Sc. in Computer Science & Engineering
 
-- Build full-stack applications with an emphasis on clear workflows and maintainable code.
-- Explore machine learning pipelines and applied AI through hands-on projects.
-- Practice data structures, algorithms, and competitive programming.
-- Learn by shipping projects, testing ideas, and documenting what I build.
+currently  :
+  - 🔭 Building Full-Stack & AI Integration Projects
+  - 🧠 Mastering DSA with C/C++
+  - 📊 Exploring Data Science & Machine Learning
+  - 🌐 Developing scalable backend systems
 
-> My profile reflects project-based learning and ongoing exploration—not a claim of expertise in every technology listed.
+interests  : [ AI/ML, Data Science, Competitive Programming, Open Source ]
+contact    : emonemran677@gmail.com
+```
 
-## Featured Projects
+-----
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [MediSeba](https://github.com/mohammademon10/MEDISEBA)
-
-A multi-role healthcare management project with patient, doctor, and admin workflows. Includes appointment management, digital prescriptions and PDF export, with Gemini-assisted symptom and prescription explanations.
-
-**Stack:** PHP · MySQL · JavaScript · Google Gemini API
-
-[View repository →](https://github.com/mohammademon10/MEDISEBA)
-
-</td>
-<td width="50%" valign="top">
-
-### [BazarCycle BD](https://github.com/mohammademon10/BazarCycle_BD_Sustainable_Project_Competition-2026)
-
-A rule-based waste-to-resource coordination platform for Bangladeshi markets. Supports waste logging, transparent resource pathways and valuation, pickup coordination, and sustainability tracking.
-
-**Stack:** Python · FastAPI · React · Vite · Tailwind CSS · PostgreSQL/Supabase
-
-[View repository →](https://github.com/mohammademon10/BazarCycle_BD_Sustainable_Project_Competition-2026)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [KrishiSheba](https://github.com/mohammademon10/krishiSeba)
-
-An agricultural equipment rental platform connecting farmers and retailers, with equipment listings, rental requests, dashboards, and role-based access for farmers, retailers, and administrators.
-
-**Stack:** Java 17 · Spring Boot · Spring Security · Thymeleaf · PostgreSQL/H2
-
-[View repository →](https://github.com/mohammademon10/krishiSeba)
-
-</td>
-<td width="50%" valign="top">
-
-### [Medical Insurance Price Prediction](https://github.com/mohammademon10/Medical-insurance-price-prediction)
-
-A machine-learning web app that estimates insurance costs from demographic and health-related inputs using a preprocessing-and-regression pipeline, served through a Gradio interface.
-
-**Stack:** Python · Pandas · scikit-learn · XGBoost · Gradio
-
-[Live demo ↗](https://huggingface.co/spaces/EmonHossain/Medical-insurance-price-prediction) · [Repository](https://github.com/mohammademon10/Medical-insurance-price-prediction)
-
-</td>
-</tr>
-</table>
-
-## Technology Stack
-
-**Languages**  
-![C](https://img.shields.io/badge/C-1F2937?style=flat-square&logo=c&logoColor=A8B9CC) ![C++](https://img.shields.io/badge/C%2B%2B-1F2937?style=flat-square&logo=cplusplus&logoColor=00599C) ![Python](https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=3776AB) ![Java](https://img.shields.io/badge/Java-1F2937?style=flat-square&logo=openjdk&logoColor=ED8B00) ![JavaScript](https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&logo=javascript&logoColor=F7DF1E) ![PHP](https://img.shields.io/badge/PHP-1F2937?style=flat-square&logo=php&logoColor=777BB4)
-
-**Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-1F2937?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-1F2937?style=flat-square&logo=css3&logoColor=1572B6) ![React](https://img.shields.io/badge/React-1F2937?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-1F2937?style=flat-square&logo=vite&logoColor=646CFF) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-1F2937?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-
-**Backend & data**  
-![FastAPI](https://img.shields.io/badge/FastAPI-1F2937?style=flat-square&logo=fastapi&logoColor=009688) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-1F2937?style=flat-square&logo=springboot&logoColor=6DB33F) ![MySQL](https://img.shields.io/badge/MySQL-1F2937?style=flat-square&logo=mysql&logoColor=4479A1) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2937?style=flat-square&logo=postgresql&logoColor=4169E1)
-
-**AI / ML**  
-![Pandas](https://img.shields.io/badge/Pandas-1F2937?style=flat-square&logo=pandas&logoColor=150458) ![scikit--learn](https://img.shields.io/badge/scikit--learn-1F2937?style=flat-square&logo=scikitlearn&logoColor=F7931E) ![XGBoost](https://img.shields.io/badge/XGBoost-1F2937?style=flat-square&logo=databricks&logoColor=FF3621) ![Gradio](https://img.shields.io/badge/Gradio-1F2937?style=flat-square&logo=gradio&logoColor=F97316) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-1F2937?style=flat-square&logo=huggingface&logoColor=FFD21E)
-
-**Tools & workflow**  
-![Git](https://img.shields.io/badge/Git-1F2937?style=flat-square&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=flat-square&logo=github&logoColor=FFFFFF) ![VS Code](https://img.shields.io/badge/VS_Code-1F2937?style=flat-square&logo=visualstudiocode&logoColor=007ACC) ![Linux](https://img.shields.io/badge/Linux-1F2937?style=flat-square&logo=linux&logoColor=FCC624)
-
-## GitHub Overview
+## 🚀 Tech Arsenal
 
 <div align="center">
 
-<a href="https://github.com/mohammademon10"><img height="165" src="https://github-readme-stats.vercel.app/api?username=mohammademon10&show_icons=true&hide_border=true&bg_color=0B1020&title_color=3B82F6&icon_color=22D3EE&text_color=E5E7EB&rank_icon=github" alt="GitHub profile statistics for mohammademon10" /></a>
-<a href="https://github.com/mohammademon10"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammademon10&layout=compact&hide_border=true&bg_color=0B1020&title_color=3B82F6&text_color=E5E7EB&langs_count=6" alt="Most-used public repository languages for mohammademon10" /></a>
+### ⚡ Languages
 
-<img src="https://streak-stats.demolab.com?user=mohammademon10&hide_border=true&background=0B1020&ring=3B82F6&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=94A3B8&currStreakNum=E5E7EB&sideNums=E5E7EB" alt="GitHub contribution streak for mohammademon10" width="70%" />
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammademon10&bg_color=0B1020&color=E5E7EB&line=3B82F6&point=22D3EE&area=true&hide_border=true" alt="GitHub contribution activity graph for mohammademon10" width="100%" />
+### 🎨 Frontend & Mobile
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### 🔧 Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🛠 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
-<sub>These cards are generated by community-maintained services, not official GitHub analytics. Availability and displayed data may vary; if a provider is down, its image may not render.</sub>
+-----
 
-## Competitive Programming
+## 📊 GitHub Stats
 
-| Platform | Profile |
-|---|---|
-| LeetCode | [MD_Emon_Hossain](https://leetcode.com/u/MD_Emon_Hossain/) |
-| Codeforces | [mohammademon10](https://codeforces.com/profile/mohammademon10) |
-| CodeChef | [emon_hossain10](https://www.codechef.com/users/emon_hossain10) |
-| HackerRank | [emonemran677](https://www.hackerrank.com/profile/emonemran677) |
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammademon10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammademon10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</div>
 
-## Contact
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammademon10&theme=tokyonight&hide_border=true"/>
+</div>
+
+-----
+
+## ⚔️ Competitive Programming
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-mdemon.me-3B82F6?style=flat-square&logo=googlechrome&logoColor=white)](https://mdemon.me/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/mohammademon10)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-emon-hossain-22774b1a6/)
-[![YouTube](https://img.shields.io/badge/YouTube-Emon_ScienceLab-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@EmonScienceLab)
-[![Email](https://img.shields.io/badge/Email-emonemran677%40gmail.com-22D3EE?style=flat-square&logo=gmail&logoColor=white)](mailto:emonemran677@gmail.com)
+|Platform    |Handle                                                         |Focus          |
+|:----------:|:-------------------------------------------------------------:|:-------------:|
+|🔵 Codeforces|[mohammademon10](https://codeforces.com/profile/mohammademon10)|Algorithms & DS|
+|🟡 LeetCode  |[MD_Emon_Hossain](https://leetcode.com/u/MD_Emon_Hossain/)     |Interview Prep |
 
 </div>
 
----
+-----
 
-<div align="center"><sub>Learning continuously. Building thoughtfully. Solving practical problems.</sub></div>
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-emon-hossain-22774b1a6/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emonemran677@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mohammademon10)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MD_Emon_Hossain/)
+
+</div>
+
+-----
+
+<div align="center">
+<i>⭐ If you find my work useful, consider starring my repos! Let's build together 🚀</i>
+</div>
